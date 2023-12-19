@@ -1,0 +1,56 @@
+Q: List different types of Cloud Servies?
+ans: There are four types of Cloud Servies.
+1. Software as a service
+2. Paltform as a service (PaaS)
+3. Infrasture as a Service (IaaS)
+4. Data as a Service  (DaaS)
+
+Q: How many Subnets can you have per VPC(Virtual Private Cloud)
+ans: 200 subnets per VPC
+
+Q: what ae key-Pairs in Aws?
+ans: a) Key-Pairs are secure login information for virtual Machines
+	b) Key-Pairs which contain a Public key and a private key
+Q: Explain what T2 instances are?
+ans : T2 Instances are designed to provide moderate baseline performance and the capability to burst to higher performance as required by the workload. 
+
+
+Q: What are the Storage Classes available in Amazon S3?
+ans: Standard S3 , Glacier, S3 Reduced Redundancy storage , S3 Standard-infrequent Access
+
+Q : DNS and Load Balancer Service come under which type of Cloud Service?
+ans: DNS and Load Balancer Service are part of  Iaas - Infrasture as a Software- storage cloud service
+
+Q: What do you understand VPC:
+ans: Virtual Private Cloud a) Customize network configuration , b) Is logically isolated from other networks in the cloud. c) It allows you to have private IP Address range, internet gateways, subnets and security groups.
+
+Q: What is CloudWatch?
+ans: CloudWatch help to monitor  aws environment : It is help to monitor RDS Instances and CPU utilization it also triggers alarms depending on various metrics.  , Dynamo DB, Load balancer, Auto-Scaling, S3 , EC2 Instance, SNS,SQS 
+
+Q: How do you monitor AWS VPC?
+ans: CloudWatch , Flow Logs
+
+Q: Whate are the advantages of IAM (AWS) ?
+ans: 1) IAM provid granular level access to different users and groups. 
+2) Different users and user groups need different levels of access to different resources created. 
+3) Create roles based on specific task and give to access levels .
+4) if without access to the resources to users and application without creating IAM role that is called Federated 
+access.
+
+
+Beginner-friendly AWS Cloud Project Ideas:
+
+🗄️ Build a personal cloud storage solution using Amazon S3 and CloudFront: Create a secure and easy-to-use cloud storage solution for your family and friends. This project will teach you how to store and deliver your files securely over the internet.
+
+🏗️ Set up a continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and CodeDeploy: Set up a CI/CD pipeline for your personal website or blog.
+This project will help you automate the process of building, testing, and deploying your code to production.
+
+🚀 Create a custom landing page for your personal website using Amazon CloudFront and Amazon Route 53: Create a custom landing page for your personal website or portfolio. This project will teach you how to create a scalable and reliable web presence.
+
+📊 Analyze your social media data using Amazon Athena and Amazon Quicksight: Analyze your social media data to see what your audience is interested in and how they are interacting with your content. This project will help you gain insights into your audience and their behavior.
+
+🤖 Build a simple machine learning model using Amazon SageMaker and deploy it to a production environment: Ex build a simple machine learning model to predict customer churn or product popularity. This project will give you a taste of how to use machine learning in the cloud.
+
+These projects are all relatively easy to complete and can be done with a basic understanding of AWS services. They are also a great way to learn about different aspects of cloud computing and how AWS can be used to build real-world applications.
+
+I hope this gives you inspiration to get started!!
